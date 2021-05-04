@@ -9,6 +9,6 @@ print "\n";
 print "build v3";
 
 print "\n"
-print "Build v4 from CLI"
+print "Build v4 from CLI";
 
 ?>
