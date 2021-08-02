@@ -13,4 +13,7 @@ print "Build v4 from CLI";
 
 print "Hello from remote exam !!";
 
+print "\n";
+print "From CLI !!";
+
 ?>
